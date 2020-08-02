@@ -8,8 +8,8 @@ alter10bis15 = '3067519627'
 alter16bis20 = '3067519628'
 alter21bis30 = '3067519629'
 alter30undmehr = '3067519630'
+Wort = input("Wort: ");
 AbstimmungsUrl = 'https://www.surveymonkey.com/r/7JZRVLJ?embedded=1'
-Wort = 'Hurensohn'
 
 i = 0
 
